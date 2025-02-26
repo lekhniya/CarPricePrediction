@@ -11,12 +11,16 @@
 ## Installation  
 1. Clone the repository:  
    git clone https://github.com/lekhniya/CarPricePrediction.git
+   
 2.Navigate into the project folder:
   cd Car-Price-Prediction
+  
 3.Install dependencies:
   pip install -r requirements.txt
+  
 4.Run the Streamlit app:
   streamlit run app.py
+  
 ## Dataset  
 - Source: [Custom]
 - Features:  
