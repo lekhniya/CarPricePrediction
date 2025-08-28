@@ -5,9 +5,7 @@
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn  
-- Flask (if deployed)  
-## Installation  
-1. Clone the repository:  
+- Flask
 ## Installation  
 1. Clone the repository:  
    git clone https://github.com/lekhniya/CarPricePrediction.git
